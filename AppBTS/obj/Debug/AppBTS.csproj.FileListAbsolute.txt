@@ -1,0 +1,12 @@
+D:\UTN\PAVI\2022\Practico3k1\Clase2 AppBTS Login con BD\AppBTS\AppBTS\bin\Debug\AppBTS.exe.config
+D:\UTN\PAVI\2022\Practico3k1\Clase2 AppBTS Login con BD\AppBTS\AppBTS\bin\Debug\AppBTS.exe
+D:\UTN\PAVI\2022\Practico3k1\Clase2 AppBTS Login con BD\AppBTS\AppBTS\bin\Debug\AppBTS.pdb
+D:\UTN\PAVI\2022\Practico3k1\Clase2 AppBTS Login con BD\AppBTS\AppBTS\obj\Debug\AppBTS.csproj.AssemblyReference.cache
+D:\UTN\PAVI\2022\Practico3k1\Clase2 AppBTS Login con BD\AppBTS\AppBTS\obj\Debug\AppBTS.csproj.SuggestedBindingRedirects.cache
+D:\UTN\PAVI\2022\Practico3k1\Clase2 AppBTS Login con BD\AppBTS\AppBTS\obj\Debug\AppBTS.frmLogin.resources
+D:\UTN\PAVI\2022\Practico3k1\Clase2 AppBTS Login con BD\AppBTS\AppBTS\obj\Debug\AppBTS.frmPrincipal.resources
+D:\UTN\PAVI\2022\Practico3k1\Clase2 AppBTS Login con BD\AppBTS\AppBTS\obj\Debug\AppBTS.Properties.Resources.resources
+D:\UTN\PAVI\2022\Practico3k1\Clase2 AppBTS Login con BD\AppBTS\AppBTS\obj\Debug\AppBTS.csproj.GenerateResource.cache
+D:\UTN\PAVI\2022\Practico3k1\Clase2 AppBTS Login con BD\AppBTS\AppBTS\obj\Debug\AppBTS.csproj.CoreCompileInputs.cache
+D:\UTN\PAVI\2022\Practico3k1\Clase2 AppBTS Login con BD\AppBTS\AppBTS\obj\Debug\AppBTS.exe
+D:\UTN\PAVI\2022\Practico3k1\Clase2 AppBTS Login con BD\AppBTS\AppBTS\obj\Debug\AppBTS.pdb
